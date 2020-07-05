@@ -9,15 +9,14 @@ classes: wide
 
 Currently enjoying as a Lead Data Scientist in an AI CoE. Solving the firm's most stubborn problems using data science. 
 
-### Disclaimer
+<!-- ### Disclaimer -->
 
-This website is still under construction.
+<!-- This website is still under construction.
 
 - Please report bugs by raising issues in [this][source-repo] repository.
-- github-pages doesn't allow you to publish source from any branch other than master. Further, I constructed the first versions of this website as a newbie coder, so the commit history is abominable.
+- github-pages doesn't allow you to publish source from any branch other than master. Further, I constructed the first versions of this website as a newbie coder, so the commit history is abominable. -->
 
 [source-repo]: https://github.com/behloolsabir/behloolsabir.github.io
-<!-- [medium-blog-profile]: https://medium.com/@abhivjoshi.aj -->
 [neil-sloane-website]: http://neilsloane.com/
 [numberphile-logo-graph-video]: https://www.youtube.com/watch?v=pAMgUB51XZA
 [oeis-logo-graph]: https://oeis.org/A133058

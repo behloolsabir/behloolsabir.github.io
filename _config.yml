@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abstracting Patterns"
+title                    : "Art & Craft of Data Science"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Behlool Sabir"
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Behlool Sabir"
   avatar           : "/assets/images/default_front_matter/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Exploring the limits!"
-  location         : "Bangalore, India"
+  bio              : "Let's stress test"
+  location         : "Be(a)ngalu(o)ru(e), India"
   email            :
   links:
     - label: "LinkedIn"
