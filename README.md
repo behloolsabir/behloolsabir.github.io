@@ -6,6 +6,7 @@ This is supposed to be my website.
 <!-- https://github.com/henrik/jekyll -->
 <!-- https://github.com/henrik/henrik.nyh.se/ -->
 <!-- https://github.com/svmiller/steve-ngvb-jekyll-template -->
+<!-- https://github.com/jbnerd/jbnerd.github.io -->
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/behloolsabir/behloolsabir.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
