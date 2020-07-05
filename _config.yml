@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ordered ramblings of chaotic musings"
+title                    : "Abstracting Patterns"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Behlool Sabir"
