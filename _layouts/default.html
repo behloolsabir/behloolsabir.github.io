@@ -12,6 +12,8 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <meta property="og:image" content="/assets/images/default_front_matter/avatar.png" />
+    <meta name="twitter:image" content="/assets/images/default_front_matter/avatar.png" />
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
