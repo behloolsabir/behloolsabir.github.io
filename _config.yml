@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Behlool Sabir"
-  avatar           : "/assets/images/default_front_matter/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/default_front_matter/me.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Exploring the limits!"
   location         : "Bangalore, India"
   email            :
