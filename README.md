@@ -1,6 +1,6 @@
 ## BEHLOOL SABIR
 This is supposed to be my website. 
-[repository settings](https://github.com/behloolsabir/)
+[GitHub](https://github.com/behloolsabir/)
 
 <!-- https://github.com/appden/appden.github.com -->
 <!-- https://github.com/henrik/jekyll -->
