@@ -21,8 +21,8 @@ excerpt: Notes on how monotonic stacks are used to solve the problem of computin
 * [Machine Learning Crash Course with TensorFlow APIs Google's fast-paced, practical introduction to machine learning ][article_6]
 * Pros and cons of different machine learning techniques.
     * [Machine Learning For Dummies Cheat Sheet][article_7]
-    * [Modern Machine Learning Algorithms: Strengths and Weaknesses | Elitedatascience][article_8]
-    * [Machine Learning Algorithms Pros and Cons | HackingNote][article_9]
+    * [Modern Machine Learning Algorithms: Strengths and Weaknesses by Elitedatascience][article_8]
+    * [Machine Learning Algorithms Pros and Cons by HackingNote][article_9]
     * [Pros and cons of various Machine Learning algorithms][article_10]
 * Short summaries of different ML techniques. Not for general learning purposes. 
     * [Machine Learning Tutorial][article_11]
