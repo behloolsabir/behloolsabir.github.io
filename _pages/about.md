@@ -13,19 +13,19 @@ excerpt: Notes on how monotonic stacks are used to solve the problem of computin
 
 # BEHLOOL SABIR 
 ## Blogs and Other Material 
-* [Troubleshooting Deep Neural Networks by Josh Tobin ][[article_1]
-* [Machine Learning Interviews by Chip Huyen (@chipro)][[article_2]
-* [What I learned from looking at 200 machine learning tools][[article_3]
-* [Machine Learning Interviews Machine Learning Systems Design by Chip Huyen (@chipro)][[article_4]
-* [Validating A/B Test Results][[article_5]
-* [Machine Learning Crash Course with TensorFlow APIs Google's fast-paced, practical introduction to machine learning ][[article_6]
+* [Troubleshooting Deep Neural Networks by Josh Tobin ][article_1]
+* [Machine Learning Interviews by Chip Huyen (@chipro)][article_2]
+* [What I learned from looking at 200 machine learning tools][article_3]
+* [Machine Learning Interviews Machine Learning Systems Design by Chip Huyen (@chipro)][article_4]
+* [Validating A/B Test Results][article_5]
+* [Machine Learning Crash Course with TensorFlow APIs Google's fast-paced, practical introduction to machine learning ][article_6]
 * Pros and cons of different machine learning techniques.
-    * [Machine Learning For Dummies Cheat Sheet][[article_7]
-    * [Modern Machine Learning Algorithms: Strengths and Weaknesses | Elitedatascience][[article_8]
-    * [Machine Learning Algorithms Pros and Cons | HackingNote][[article_9]
-    * [Pros and cons of various Machine Learning algorithms][[article_10]
+    * [Machine Learning For Dummies Cheat Sheet][article_7]
+    * [Modern Machine Learning Algorithms: Strengths and Weaknesses | Elitedatascience][article_8]
+    * [Machine Learning Algorithms Pros and Cons | HackingNote][article_9]
+    * [Pros and cons of various Machine Learning algorithms][article_10]
 * Short summaries of different ML techniques. Not for general learning purposes. 
-    * [Machine Learning Tutorial][[article_11]
+    * [Machine Learning Tutorial][article_11]
 
 
 [article_1]: http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf
