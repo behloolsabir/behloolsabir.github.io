@@ -16,7 +16,10 @@ excerpt: Notes on how monotonic stacks are used to solve the problem of computin
 * [Troubleshooting Deep Neural Networks by Josh Tobin ][article_1]
 * [Machine Learning Interviews by Chip Huyen (@chipro)][article_2]
 * [What I learned from looking at 200 machine learning tools][article_3]
-* [Machine Learning Interviews Machine Learning Systems Design by Chip Huyen (@chipro)][article_4]
+* [Machine Learning Interviews Machine Learning Systems Design by Chip Huyen (@chipro)][article_4] Interesting articles mentioned in this book. 
+    * [Debate about science at organizations like Google Brain/FAIR/DeepMind][article_12] 
+    * [Hyperparameter optimization][article_13]
+    * [Gradient Checkpointing ][article_14]
 * [Validating A/B Test Results][article_5]
 * [Machine Learning Crash Course with TensorFlow APIs Google's fast-paced, practical introduction to machine learning ][article_6]
 * Pros and cons of different machine learning techniques.
@@ -39,3 +42,6 @@ excerpt: Notes on how monotonic stacks are used to solve the problem of computin
 [article_9]: https://www.hackingnote.com/en/machine-learning/algorithms-pros-and-cons
 [article_10]: https://towardsdatascience.com/pros-and-cons-of-various-classification-ml-algorithms-3b5bfb3c87d6
 [article_11]: https://data-flair.training/blogs/machine-learning-tutorial1
+[article_12]: https://www.reddit.com/r/MachineLearning/duplicates/8yvlzy/d_debate_about_science_at_organizations_like/
+[article_13]: https://www.automl.org/wp-content/uploads/2018/09/chapter1-hpo.pdf 
+[article_14]: [https://github.com/cybertronai/gradient-checkpointing]
