@@ -1,22 +1,21 @@
 ---
 layout: single
-title:  "About Me"
+title:  "Resources"
 permalink: /about/
 author_profile: true
-read_time: true
-comments: # true
+read_time: false
+comments: true
 share: true
 related: false # true
 classes: wide
-excerpt: Notes on how monotonic stacks are used to solve the problem of computing next greater intervals in linear time.
+excerpt: Listing the interesting articles and other material I came across. Also, a list of courses I found to be helpful in my ML journey.
 ---
 
-# BEHLOOL SABIR 
 ## Blogs and Other Material 
-* [Troubleshooting Deep Neural Networks by Josh Tobin ][article_1]
 * [Machine Learning Interviews by Chip Huyen (@chipro)][article_2]
 * [What I learned from looking at 200 machine learning tools][article_3]
 * [Machine Learning Interviews Machine Learning Systems Design by Chip Huyen (@chipro)][article_4] Interesting articles mentioned in this book. 
+    * [Troubleshooting Deep Neural Networks by Josh Tobin ][article_1]
     * [Debate about science at organizations like Google Brain/FAIR/DeepMind][article_12] 
     * [Hyperparameter optimization][article_13]
     * [Gradient Checkpointing ][article_14]
@@ -29,7 +28,9 @@ excerpt: Notes on how monotonic stacks are used to solve the problem of computin
     * [Pros and cons of various Machine Learning algorithms][article_10]
 * Short summaries of different ML techniques. Not for general learning purposes. 
     * [Machine Learning Tutorial][article_11]
-
+## Courses
+* [Full Stack Deep Learning Bootcamp][article_15]
+* [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 
 [article_1]: http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf
 [article_2]: https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit#slide=id.g5beff82e39_0_0
@@ -45,3 +46,4 @@ excerpt: Notes on how monotonic stacks are used to solve the problem of computin
 [article_12]: https://www.reddit.com/r/MachineLearning/duplicates/8yvlzy/d_debate_about_science_at_organizations_like/
 [article_13]: https://www.automl.org/wp-content/uploads/2018/09/chapter1-hpo.pdf 
 [article_14]: [https://github.com/cybertronai/gradient-checkpointing]
+[article_15]: [https://fullstackdeeplearning.com/march2019]
