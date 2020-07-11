@@ -28,6 +28,9 @@ excerpt: Listing the interesting articles and other material I came across. Also
     * [Pros and cons of various Machine Learning algorithms][article_10]
 * Short summaries of different ML techniques. Not for general learning purposes. 
     * [Machine Learning Tutorial][article_11]
+* Applied Machine Learning / MLOps 
+    * [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
+    * [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
 
 ## Courses
 * [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
