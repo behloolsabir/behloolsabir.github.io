@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Resources"
-permalink: /about/
+permalink: /resources/
 author_profile: true
 read_time: false
 comments: true
@@ -10,8 +10,9 @@ related: false # true
 classes: wide
 excerpt: Listing the interesting articles and other material I came across. Also, a list of courses I found to be helpful in my ML journey.
 ---
+These are interesting and/or helpful content I came across. This is an active list of items which I wish to keep updating and also segregate it in a better format as it will keep growing in the future for its better accessibility. 
 
-## Blogs and Other Material 
+### Blogs and Other Material 
 * [Machine Learning Interviews by Chip Huyen (@chipro)][article_2]
 * [What I learned from looking at 200 machine learning tools][article_3]
 * [Machine Learning Interviews Machine Learning Systems Design by Chip Huyen (@chipro)][article_4] Interesting articles mentioned in this book. 
@@ -32,7 +33,7 @@ excerpt: Listing the interesting articles and other material I came across. Also
     * [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
     * [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
 
-## Courses
+### Courses
 * [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 
 [article_1]: http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf

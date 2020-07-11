@@ -7,3 +7,5 @@ main:
   #   url: /portfolio/
   - title: "Research"
     url: /research/
+  - title: "Resources"
+    url: /resources/
