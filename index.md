@@ -5,9 +5,18 @@ permalink: /
 classes: wide
 ---
 
-7 years of experience as a Data Scientist in predictive analytics. Experienced in developing 'intelligent' solutions using Deep Learning and other Machine Learning techniques on big data in the domains of healthcare, BFSI & aviation. Interest & experience spans from research publications to business implementations and deployment. Experienced in working in Agile (Scrum) project management framework.
+Welcome to my website.👋
 
-Currently enjoying as a Lead Data Scientist in an AI CoE. Solving the firm's most stubborn problems using data science. 
+I am an applied machine learning research engineer with focus on developing intelligent systems using big data and deploying these systems at scale. 
+My research experience include developing machine learning architectures which solves previously unsolved or poorly solved health risk prediction problems. 
+I have experience working in the domains of healthcare, BFSI, and aviation.  
+
+Experienced in working in Agile (Scrum) project management framework.
+Currently enjoying as a Lead Data Scientist in an AI CoE. Solving the firm's stubborn problems using data science. 
+
+My hobbies include motorcycle touring and motorcycle racing. 
+
+
 
 <!-- ### Disclaimer -->
 
