@@ -12,7 +12,7 @@ My research experience include developing machine learning architectures which s
 I have experience working in the domains of healthcare, BFSI, and aviation.  
 
 Experienced in working in Agile (Scrum) project management framework.
-Currently enjoying as a Lead Data Scientist in an AI CoE. Solving the firm's stubborn problems using data science. 
+Currently, enjoying as a Lead Data Scientist in an AI CoE. Solving the firm's stubborn problems using data science. 
 
 My hobbies include motorcycle touring and motorcycle racing. 
 

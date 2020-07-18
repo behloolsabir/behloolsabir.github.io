@@ -32,6 +32,14 @@ These are interesting and/or helpful content I came across. This is an active li
 * Applied Machine Learning / MLOps 
     * [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
     * [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
+* An interesting series of blog of 365 days of NLP [Learn NLP with Me](https://ryanong.co.uk/category/data-science/natural-language-processing/learn-nlp-with-me/)
+    * [Day 197: Learn NLP With Me – Filling the Gaps with NLP Interview Questions](https://ryanong.co.uk/2020/07/15/day-197-learn-nlp-with-me-what-is-coreference-resolution/)
+    * [Day 198: Learn NLP With Me – Filling the Gaps with NLP Interview Questions II](https://ryanong.co.uk/2020/07/16/day-198-learn-nlp-with-me-filling-the-gaps-with-nlp-interview-questions-ii/)
+    * [Day 199: Learn NLP With Me – Filling the Gaps with NLP Interview Questions III](https://ryanong.co.uk/2020/07/17/day-199-learn-nlp-with-me-filling-the-gaps-with-nlp-interview-questions-iii/)
+    * [Day 200: Learn NLP With Me – Filling the Gaps with NLP Interview Questions IV](https://ryanong.co.uk/2020/07/18/day-200-learn-nlp-with-me-filling-the-gaps-with-nlp-interview-questions-iv/)
+
+### Material With Working Code
+* [The fastai book](https://github.com/fastai/fastbook)
 
 ### Courses
 * [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
