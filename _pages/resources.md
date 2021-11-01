@@ -10,7 +10,7 @@ related: false # true
 classes: wide
 excerpt: Listing the interesting articles and other material I came across. Also, a list of courses I found to be helpful in my ML journey.
 ---
-These are interesting and/or helpful content I came across. This is an active list of items which I wish to keep updating. Also, I wish to segregate it in a more useful format as it will keep growing in the future for better discovery. 
+These are interesting and/or helpful content I came across. This is an active list of items which I wish to keep updating. Also, I wish to segregate it in a more useful categories as it will keep growing in the future for better discovery. 
 
 ### Blogs and Other Material 
 * [Machine Learning Interviews by Chip Huyen (@chipro)][article_2]
